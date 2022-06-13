@@ -1,4 +1,4 @@
-// Project based on the library-free self-driving car Javascript by Rado Mariescu-Istodor
+// Project based on the library-free self-driving car Javascript by Radu Mariescu-Istodor
 // See his deployment: https://radufromfinland.com/projects/selfdrivingcar/
 // YouTube: https://www.youtube.com/watch?v=Rs_rAxEsAvI
 
